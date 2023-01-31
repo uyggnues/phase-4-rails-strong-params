@@ -22,4 +22,5 @@ class BirdsController < ApplicationController
     end
   end
 
+    def 
 end
